@@ -1,5 +1,9 @@
 package inhereitance2;
 
+
+
+
+
 class Grandparent2 {
 	void play() {
 		System.out.println("i am grandparent");
